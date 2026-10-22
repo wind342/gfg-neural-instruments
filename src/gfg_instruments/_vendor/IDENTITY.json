@@ -1,0 +1,181 @@
+{
+  "schema": "verified-vendored-sources-v1",
+  "files": [
+    {
+      "path": "core/LICENSE",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "LICENSE",
+      "sha256": "55820596e6c6c917365851565e066193c8c8f1d49622b103809bbcbc4c3fad31",
+      "size": 11339
+    },
+    {
+      "path": "core/compat/__init__.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "compat/__init__.py",
+      "sha256": "8a9d481e2e37c351e786ed384e1af66bc373610c67715998d2ff439e8523a867",
+      "size": 68
+    },
+    {
+      "path": "core/compat/v2/__init__.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "compat/v2/__init__.py",
+      "sha256": "39065f4bb7278c2259946932edf8fe14381f751c6bf1ca18ba6c9af6e3dacc93",
+      "size": 58
+    },
+    {
+      "path": "core/compat/v2/projections.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "compat/v2/projections.py",
+      "sha256": "38291068fdf8a0682c3f22866cffe28a5afbe953fe41f596348e693bd145f7a5",
+      "size": 3811
+    },
+    {
+      "path": "core/protocol/core_v3/canonical_serialization_v3.json",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "protocol/core_v3/canonical_serialization_v3.json",
+      "sha256": "9fbb75149af666a1c0d298de8108da79c0124e75d44cd886c80877fd07030c2f",
+      "size": 6161
+    },
+    {
+      "path": "core/protocol/core_v3/core_v3_entities.schema.json",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "protocol/core_v3/core_v3_entities.schema.json",
+      "sha256": "27c429695cffac8cea6cf52f2fd57e35fac3fe81bf251a5fd446f95d93bb4720",
+      "size": 27103
+    },
+    {
+      "path": "core/protocol/core_v3/core_v3_protocol.json",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "protocol/core_v3/core_v3_protocol.json",
+      "sha256": "e0936397954e7567a79aa0a0870bc0b22b55ed9c133992de868c2ff62543b51a",
+      "size": 2307
+    },
+    {
+      "path": "core/protocol/core_v3/test_vectors/canonical_negative.json",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "protocol/core_v3/test_vectors/canonical_negative.json",
+      "sha256": "359d29405aa9a95a297f93225a03a525082b94f5241586368a9e043bb7935de3",
+      "size": 1552
+    },
+    {
+      "path": "core/protocol/core_v3/test_vectors/canonical_positive.json",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "protocol/core_v3/test_vectors/canonical_positive.json",
+      "sha256": "49f27941a16a4607682950753b6c031f630b595747cb69432ebc1bde19edfa17",
+      "size": 1073
+    },
+    {
+      "path": "core/src/generation_relation_core/__init__.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/__init__.py",
+      "sha256": "0463e4f772828deb3dacb7d4efa86be0e9298cdcd6aceb749405a03f9476c404",
+      "size": 486
+    },
+    {
+      "path": "core/src/generation_relation_core/canonical.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/canonical.py",
+      "sha256": "bfadf2db3bfc1233207ec8745f97c5700a8e171d4c0b8a871bc65a0441db1966",
+      "size": 6764
+    },
+    {
+      "path": "core/src/generation_relation_core/entities.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/entities.py",
+      "sha256": "7f8de4d3d1d20f53c3b5413b4ab03a901fb202341d16133d67db9c7d8e970696",
+      "size": 12251
+    },
+    {
+      "path": "core/src/generation_relation_core/errors.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/errors.py",
+      "sha256": "2da2fabb8634e5121bc42c49e7952c698509aed5be5f22f48cbe9bffe5be5915",
+      "size": 484
+    },
+    {
+      "path": "core/src/generation_relation_core/implementation_identity.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/implementation_identity.py",
+      "sha256": "5baa5d3203eea28b1c95afc545fe56f06a965bb3c1222a44ecfcb6b364b4a1a8",
+      "size": 5755
+    },
+    {
+      "path": "core/src/generation_relation_core/predicate_registry.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/predicate_registry.py",
+      "sha256": "0900e1866467e9669666238c65e6265ef5027651753ace190798c37f8e768f16",
+      "size": 6580
+    },
+    {
+      "path": "core/src/generation_relation_core/query_engine.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/query_engine.py",
+      "sha256": "86be637a622b200e1b5dffbfe7caa1eb8a2eae4623df10cbc85c8033b8a49fef",
+      "size": 11369
+    },
+    {
+      "path": "core/src/generation_relation_core/relation_evidence.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/relation_evidence.py",
+      "sha256": "adacf92b4da59b81634fa8301584d9c36059f9ace3b920afe1cc3a36172821d2",
+      "size": 8515
+    },
+    {
+      "path": "core/src/generation_relation_core/schema_registry.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/schema_registry.py",
+      "sha256": "b468241cfbfdff4d8e1bccaf65f9610d6de29864d13172bf65e74074656befba",
+      "size": 2257
+    },
+    {
+      "path": "core/src/generation_relation_core/snapshots.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/snapshots.py",
+      "sha256": "a022244bb0c3c6426c2a4e70b817a58258d8fcaecd82ebdc0626473e2e3d7a29",
+      "size": 21670
+    },
+    {
+      "path": "resnet_model.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_resnet_cifar_training_learning_generalization_v1/model.py",
+      "sha256": "023362f46de66bf6eb501c0d1f986ecc0cf728ce0d9b4b9ef36f57316e140842",
+      "size": 5422
+    },
+    {
+      "path": "nanogpt/model.py",
+      "repository": "karpathy/nanoGPT",
+      "commit": "3adf61e154c3fe3fca428ad6bc3818b27a3b8291",
+      "source": "model.py",
+      "sha256": "7c01703240dbec5d554527dc666e35b3df8391d0b117fddc07afcf325a21d11c",
+      "size": 16345
+    },
+    {
+      "path": "nanogpt/LICENSE",
+      "repository": "karpathy/nanoGPT",
+      "commit": "3adf61e154c3fe3fca428ad6bc3818b27a3b8291",
+      "source": "LICENSE",
+      "sha256": "a59ec5cdb1c1e447e5266a014b3e7ded511f8d6e5a08931e931c87490ff821fe",
+      "size": 1072
+    }
+  ]
+}

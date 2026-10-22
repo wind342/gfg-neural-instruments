@@ -1,0 +1,373 @@
+{
+  "schema": "gfg-neural-instruments-upstream-v1",
+  "files": [
+    {
+      "path": "src/gfg_instruments/_vendor/core/LICENSE",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "LICENSE",
+      "sha256": "55820596e6c6c917365851565e066193c8c8f1d49622b103809bbcbc4c3fad31",
+      "size": 11339
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/core/compat/__init__.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "compat/__init__.py",
+      "sha256": "8a9d481e2e37c351e786ed384e1af66bc373610c67715998d2ff439e8523a867",
+      "size": 68
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/core/compat/v2/__init__.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "compat/v2/__init__.py",
+      "sha256": "39065f4bb7278c2259946932edf8fe14381f751c6bf1ca18ba6c9af6e3dacc93",
+      "size": 58
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/core/compat/v2/projections.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "compat/v2/projections.py",
+      "sha256": "38291068fdf8a0682c3f22866cffe28a5afbe953fe41f596348e693bd145f7a5",
+      "size": 3811
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/core/protocol/core_v3/canonical_serialization_v3.json",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "protocol/core_v3/canonical_serialization_v3.json",
+      "sha256": "9fbb75149af666a1c0d298de8108da79c0124e75d44cd886c80877fd07030c2f",
+      "size": 6161
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/core/protocol/core_v3/core_v3_entities.schema.json",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "protocol/core_v3/core_v3_entities.schema.json",
+      "sha256": "27c429695cffac8cea6cf52f2fd57e35fac3fe81bf251a5fd446f95d93bb4720",
+      "size": 27103
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/core/protocol/core_v3/core_v3_protocol.json",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "protocol/core_v3/core_v3_protocol.json",
+      "sha256": "e0936397954e7567a79aa0a0870bc0b22b55ed9c133992de868c2ff62543b51a",
+      "size": 2307
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/core/protocol/core_v3/test_vectors/canonical_negative.json",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "protocol/core_v3/test_vectors/canonical_negative.json",
+      "sha256": "359d29405aa9a95a297f93225a03a525082b94f5241586368a9e043bb7935de3",
+      "size": 1552
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/core/protocol/core_v3/test_vectors/canonical_positive.json",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "protocol/core_v3/test_vectors/canonical_positive.json",
+      "sha256": "49f27941a16a4607682950753b6c031f630b595747cb69432ebc1bde19edfa17",
+      "size": 1073
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/core/src/generation_relation_core/__init__.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/__init__.py",
+      "sha256": "0463e4f772828deb3dacb7d4efa86be0e9298cdcd6aceb749405a03f9476c404",
+      "size": 486
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/core/src/generation_relation_core/canonical.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/canonical.py",
+      "sha256": "bfadf2db3bfc1233207ec8745f97c5700a8e171d4c0b8a871bc65a0441db1966",
+      "size": 6764
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/core/src/generation_relation_core/entities.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/entities.py",
+      "sha256": "7f8de4d3d1d20f53c3b5413b4ab03a901fb202341d16133d67db9c7d8e970696",
+      "size": 12251
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/core/src/generation_relation_core/errors.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/errors.py",
+      "sha256": "2da2fabb8634e5121bc42c49e7952c698509aed5be5f22f48cbe9bffe5be5915",
+      "size": 484
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/core/src/generation_relation_core/implementation_identity.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/implementation_identity.py",
+      "sha256": "5baa5d3203eea28b1c95afc545fe56f06a965bb3c1222a44ecfcb6b364b4a1a8",
+      "size": 5755
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/core/src/generation_relation_core/predicate_registry.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/predicate_registry.py",
+      "sha256": "0900e1866467e9669666238c65e6265ef5027651753ace190798c37f8e768f16",
+      "size": 6580
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/core/src/generation_relation_core/query_engine.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/query_engine.py",
+      "sha256": "86be637a622b200e1b5dffbfe7caa1eb8a2eae4623df10cbc85c8033b8a49fef",
+      "size": 11369
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/core/src/generation_relation_core/relation_evidence.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/relation_evidence.py",
+      "sha256": "adacf92b4da59b81634fa8301584d9c36059f9ace3b920afe1cc3a36172821d2",
+      "size": 8515
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/core/src/generation_relation_core/schema_registry.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/schema_registry.py",
+      "sha256": "b468241cfbfdff4d8e1bccaf65f9610d6de29864d13172bf65e74074656befba",
+      "size": 2257
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/core/src/generation_relation_core/snapshots.py",
+      "repository": "wind342/gfg-core-structural-experiments",
+      "commit": "6ee8a33f0268e07304d83cc3e9d87411c17a23e9",
+      "source": "src/generation_relation_core/snapshots.py",
+      "sha256": "a022244bb0c3c6426c2a4e70b817a58258d8fcaecd82ebdc0626473e2e3d7a29",
+      "size": 21670
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_nanogpt_support_redundancy_v1/builder.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_nanogpt_support_redundancy_v1/builder.py",
+      "sha256": "ee6454785fde2113ef95a90c4bfb8643cb2f1d24cc28b833ec7733054b78c62b",
+      "size": 33614
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_nanogpt_support_redundancy_v1/runtime.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_nanogpt_support_redundancy_v1/runtime.py",
+      "sha256": "b9e490b829241f8adf270961ee183bb7aae15cd1b4e4516505a89a51a9dcf935",
+      "size": 9139
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_nanogpt_support_redundancy_v1/capture_contract_v2.json",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_nanogpt_support_redundancy_v1/capture_contract_v2.json",
+      "sha256": "1884637142df387bb4ae848c9c2f793d5dabcb5cd679f3e7a34335b92de3bf53",
+      "size": 4488
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_nanogpt_support_redundancy_v1/support_gfg.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_nanogpt_support_redundancy_v1/support_gfg.py",
+      "sha256": "19e806bfd48834b7527d8876d93ba61e01591524b0ac9709add6725b815a2d1f",
+      "size": 25827
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_nanogpt_support_redundancy_v1/verify_archive.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_nanogpt_support_redundancy_v1/verify_archive.py",
+      "sha256": "2f48f65c003f688c4c0828bfe4f0d74fd69da1b4a4ceda10dd90f0d130d68346",
+      "size": 4674
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_nanogpt_stepwise_support_transition_v1/runtime.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_nanogpt_stepwise_support_transition_v1/runtime.py",
+      "sha256": "84f81506439752d02220752cafe1420f42b2a2f8f90ca569777f9f55c79194ea",
+      "size": 20151
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_nanogpt_stepwise_support_transition_v1/contracts.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_nanogpt_stepwise_support_transition_v1/contracts.py",
+      "sha256": "7223ad1c7223dada6721605d6448cd93290e4d681a481335f3e79d41df840ce7",
+      "size": 6016
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_nanogpt_stepwise_support_transition_v1/branches.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_nanogpt_stepwise_support_transition_v1/branches.py",
+      "sha256": "653d385d2e8bc756b0ca58b0087cd21cf929227ae8cffc5e19c95d3ca5c23d38",
+      "size": 22843
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_nanogpt_stepwise_support_transition_v1/reciprocal.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_nanogpt_stepwise_support_transition_v1/reciprocal.py",
+      "sha256": "22ef47e7540d78019fb155f9f6c3c7908e347aed8330db4b2967bb1dac196102",
+      "size": 20621
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_nanogpt_stepwise_support_transition_v1/reciprocal_validator.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_nanogpt_stepwise_support_transition_v1/reciprocal_validator.py",
+      "sha256": "2487358ffe8f1f5e181641e435b8d96061ace7534a1d667f4d98d18c435ae088",
+      "size": 17171
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_nanogpt_stepwise_support_transition_v1/RECIPROCAL_MATCHED_PAIR_PROTOCOL_V2.json",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_nanogpt_stepwise_support_transition_v1/RECIPROCAL_MATCHED_PAIR_PROTOCOL_V2.json",
+      "sha256": "6a6f20e0a5055df7dd01f204dfbf0c0710c5ffd3045abc1717c4a760c4e3642d",
+      "size": 2964
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_nanogpt_stepwise_support_transition_v1/amplitude_path.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_nanogpt_stepwise_support_transition_v1/amplitude_path.py",
+      "sha256": "bf701aac22b6af32ea68a347e8cf7c37d1160ca3de8fb4d29e0719e1127238be",
+      "size": 22604
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_nanogpt_stepwise_support_transition_v1/amplitude_path_validator.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_nanogpt_stepwise_support_transition_v1/amplitude_path_validator.py",
+      "sha256": "48c908617d9184bde7ae4282247a15c3f82de622d7e8e67dee34ffd55372e052",
+      "size": 20480
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_nanogpt_stepwise_support_transition_v1/B_UPDATE_AMPLITUDE_PATH_PROTOCOL.json",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_nanogpt_stepwise_support_transition_v1/B_UPDATE_AMPLITUDE_PATH_PROTOCOL.json",
+      "sha256": "9b8c11e0efe18ff7f502a12ced817a9dab11e10b3762dcdaa05b5d9ade2b86d9",
+      "size": 4646
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_nanogpt_stepwise_support_transition_v1/native_response_500.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_nanogpt_stepwise_support_transition_v1/native_response_500.py",
+      "sha256": "ff6b2da16134c49047603b5d111f98958f0c581a5351d2747d4079067141627c",
+      "size": 18057
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_nanogpt_stepwise_support_transition_v1/native_response_500_validator.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_nanogpt_stepwise_support_transition_v1/native_response_500_validator.py",
+      "sha256": "bd2ad642bfcd9ba2ae2214edd11584b0414a845cedbe869f11706309f7685102",
+      "size": 9765
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_nanogpt_identity_aligned_margin_crossing_v1/experiment.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_nanogpt_identity_aligned_margin_crossing_v1/experiment.py",
+      "sha256": "4dc8b7487b2a3eded5831a9649a03e8f8a489c52f354c8a5a1b1564e7f985b00",
+      "size": 32291
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_resnet_cifar_training_learning_generalization_v1/model.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_resnet_cifar_training_learning_generalization_v1/model.py",
+      "sha256": "023362f46de66bf6eb501c0d1f986ecc0cf728ce0d9b4b9ef36f57316e140842",
+      "size": 5422
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_resnet_cifar_training_learning_generalization_v1/analysis.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_resnet_cifar_training_learning_generalization_v1/analysis.py",
+      "sha256": "31292743b130f07265a914abc87ca12967c7af6cee6a6928422c7a0fc3351b08",
+      "size": 17453
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_resnet_cifar_training_learning_generalization_v1/PROTOCOL_FREEZE.md",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_resnet_cifar_training_learning_generalization_v1/PROTOCOL_FREEZE.md",
+      "sha256": "e444c0b11937649ecac6bba677f7184f1b3ecea21283393c2961063dcb32d846",
+      "size": 6630
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_ddpm_cifar_training_learning_generalization_v1/data.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_ddpm_cifar_training_learning_generalization_v1/data.py",
+      "sha256": "36d7861b84b5781fe3878cb888a6421bc93ee8483aacae332bb6d2fda5c3c923",
+      "size": 3381
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_ddpm_cifar_training_learning_generalization_v1/runner.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_ddpm_cifar_training_learning_generalization_v1/runner.py",
+      "sha256": "24f1515c7d25eefc136bcc1e9a3c88033f586dc827c1aa4a148b7831e12a0c3f",
+      "size": 13504
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_ddpm_cifar_training_learning_generalization_v1/boundary.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_ddpm_cifar_training_learning_generalization_v1/boundary.py",
+      "sha256": "240fb44654bfffa6b972eb041556e8a6d3958e26ef30be6f21cf711a3147dd67",
+      "size": 1790
+    },
+    {
+      "path": "provenance/upstream/experiments/gfg_ddpm_cifar_training_learning_generalization_v1/PROTOCOL_FREEZE.md",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_ddpm_cifar_training_learning_generalization_v1/PROTOCOL_FREEZE.md",
+      "sha256": "b569483e0a1bc9ad06b8ff67711886cec3b0c2bffc84a6b9fdedd7f0fb531417",
+      "size": 6548
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/resnet_model.py",
+      "repository": "wind342/gfg-training-learning-inference-experiments",
+      "commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+      "source": "experiments/gfg_resnet_cifar_training_learning_generalization_v1/model.py",
+      "sha256": "023362f46de66bf6eb501c0d1f986ecc0cf728ce0d9b4b9ef36f57316e140842",
+      "size": 5422
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/nanogpt/model.py",
+      "repository": "karpathy/nanoGPT",
+      "commit": "3adf61e154c3fe3fca428ad6bc3818b27a3b8291",
+      "source": "model.py",
+      "sha256": "7c01703240dbec5d554527dc666e35b3df8391d0b117fddc07afcf325a21d11c",
+      "size": 16345
+    },
+    {
+      "path": "src/gfg_instruments/_vendor/nanogpt/LICENSE",
+      "repository": "karpathy/nanoGPT",
+      "commit": "3adf61e154c3fe3fca428ad6bc3818b27a3b8291",
+      "source": "LICENSE",
+      "sha256": "a59ec5cdb1c1e447e5266a014b3e7ded511f8d6e5a08931e931c87490ff821fe",
+      "size": 1072
+    }
+  ]
+}

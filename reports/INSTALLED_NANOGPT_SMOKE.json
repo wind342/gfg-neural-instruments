@@ -1,0 +1,77 @@
+{
+  "status": "PASS",
+  "architecture": "nanogpt",
+  "device": "cpu",
+  "parameters": 6416,
+  "samples": 12,
+  "target_groups": 8,
+  "csrg_actual_forwards": 12,
+  "causal_branches": 7,
+  "horizons": [
+    1,
+    2
+  ],
+  "finite_amplitude_states": 11,
+  "continuation_states": 5,
+  "ledger_evaluable": 12,
+  "ledger_accuracy": 1,
+  "persistent_state_and_rng_restored": true,
+  "native_buffer_changed": false,
+  "core_v3": {
+    "status": "PASS",
+    "validator": "unmodified Core v3",
+    "snapshot_id": "snap3_0de0d5392892dc378762598e6ac68e386bbe375cc508b507a40b2b8cd37fc34b",
+    "relations": 1759,
+    "occurrences": 523,
+    "generated_origins": 469,
+    "dispositions": 50
+  },
+  "checks": {
+    "status": "PASS",
+    "artifact_and_receipt_hashes": "PASS",
+    "scientific_recomputation": {
+      "csrg": 31,
+      "paths": 1,
+      "forks": 1,
+      "native_updates": 15,
+      "ledgers": 1
+    },
+    "core_v3": {
+      "status": "PASS",
+      "snapshot_id": "snap3_0de0d5392892dc378762598e6ac68e386bbe375cc508b507a40b2b8cd37fc34b",
+      "relations": 1759
+    },
+    "historical_full_replay": "NOT_RUN_HISTORICAL_PAYLOADS_NOT_BUNDLED"
+  },
+  "wall_seconds": 52.4103961000219,
+  "artifact_bytes": 18076481,
+  "historical_result_claim": false,
+  "input_scope": "generated smoke inputs; not historical datasets",
+  "instrument_source_hashes": {
+    "__init__.py": "bb5c1009b0a35c736f9ab62b0581ab6695021dbff232b2f7b73bf0ea2df5c703",
+    "adapters/__init__.py": "7b4b1119233b6096c3b72a78cbc456db1ce53778fe4cf2982ec9275c3f022f14",
+    "adapters/base.py": "eef465d9879d891860de6d0c1411d3942a6df2e37dc8d96db8e578af2cf017cf",
+    "adapters/nanogpt.py": "017be747691ecb139c28578a8cb3b30b514ed339556e4c1011de63ff865885e3",
+    "adapters/resnet.py": "3562922a4eb1d74ce751b7941194980127b718c52417a5c75eb8982ae28d928c",
+    "amplitude_kernel.py": "33c509a10898109b97751ae41c3e53ae4021286f5ab22716440108c85d0d3509",
+    "boundaries.py": "f59f4dd3acb03a6de339c4350cf9cd14f92adf50409ba9eddc81b147b85447cc",
+    "contracts.py": "9c4fccdbc2a3cf792573cab6341cacf4c0d54c915493e265518a2ae2a9388ac3",
+    "core_bridge.py": "4c6e48f15522d47d2b7e97c89a5a35004bf4308449d641ee738bb2dc22aa234a",
+    "csrg.py": "cc9ce3b202d8e93eb46e60a4fccd1ec520a7079911bc1c8e290a3a16995165c7",
+    "errors.py": "b66ed4baadfb20ab01faa33c3a43b7ffa48e33c79ef749342dad5d4f0b499f04",
+    "evidence.py": "26366438d326366fc0f61554714e95e1c80e4c029488b3c76d89e022a72709b2",
+    "forks.py": "ad6c650bcfb2abdc109f2382033927d4d219071445359d3ce4f4095467418c95",
+    "identity.py": "007b360951ede5802006bf38cc25e9f221cedb2a3aeb52d09bccd14c4b4d354d",
+    "ledger.py": "2fe1940d840699769600f1818dc735c484f27a57c2bc547e0d7efdb8d53a58da",
+    "optimizers.py": "94812ed6b09574de7d78253103103ff7770a1d9e18d68caebf65407bc5ccb5d8",
+    "paths.py": "159299aa786e28ece93054284957ba42cf98e6dbbc6bdcc8b0044f2a2f6ac771",
+    "smoke.py": "b0dec437db33c08e8d48b9cd22a6ca5cf072dc4bd324c198acd4497c62a09972",
+    "state.py": "ac95c6b756f160e3bf816cfc2210f8ce73a8e8999b12893f0a51db7b1eacf3ea",
+    "verify.py": "c6ed9f075ae7bd4e6b5497c777a21499f8ba69ac80206c332b297e0dbde997e0"
+  },
+  "versions": {
+    "torch": "2.11.0+cu128",
+    "numpy": "2.5.2",
+    "jsonschema": "4.25.1"
+  }
+}

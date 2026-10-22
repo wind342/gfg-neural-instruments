@@ -1,0 +1,19 @@
+{
+  "schema": "gfg-neural-instruments-delivery-checks-v1",
+  "date": "2026-10-22",
+  "pytest": {"passed": 35, "errors": 0, "failures": 0, "skipped": 0, "seconds": 15.431},
+  "upstream_manifest_files_checked": 46,
+  "upstream_git_byte_matches": 44,
+  "original_worktrees_clean": true,
+  "frozen_evidence_tag_commit": "36dab5ce347dbbdac157ef23205f556606d18294",
+  "native_nanogpt_four_instrument_smoke": "PASS",
+  "native_resnet_four_instrument_smoke": "PASS",
+  "unmodified_core_v3_validation": "PASS",
+  "standalone_wheel_install_and_execution": "PASS",
+  "shared_python_environment_modified": false,
+  "wheel_bytes": 94923,
+  "wheel_sha256": "50c6d92bd4eac3475edc53913bcf92c967880f748886f15f034019ef598b842a",
+  "installed_dependency_licence_records": 22,
+  "historical_full_byte_replay": "NOT_RUN",
+  "remote_pushed_or_published": false
+}

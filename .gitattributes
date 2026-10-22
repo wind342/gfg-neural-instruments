@@ -1,0 +1,3 @@
+* text=auto eol=lf
+src/gfg_instruments/_vendor/** -text
+provenance/upstream/** -text
